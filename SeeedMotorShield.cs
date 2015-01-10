@@ -4,7 +4,7 @@ using Microsoft.SPOT.Hardware;
 using SecretLabs.NETMF.Hardware.Netduino;
 using System.Threading;
 
-namespace Baymax
+namespace SmallYellow
 {
     public class SeeedMotorShield
     {
