@@ -31,6 +31,3 @@ Here are a few pictures of the robot once it has been fully assembled.
 4. Put the Ping sensor into the breadboard and wire the Netduino up to it
 5. Connect your computer to the Netduino and deploy the code
 6. Insert the batteries and let it rip
-
-## Code ##
-There are a few parts to the code, but overall it is as basic a robotics codebase as you will find. 
