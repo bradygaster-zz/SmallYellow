@@ -23,6 +23,14 @@ Once you get the chassis built, the remaining instructions should be pretty easy
 
 Here are a few pictures of the robot once it has been fully assembled. 
 
+Top View: 
+
+![](https://raw.githubusercontent.com/bradygaster/SmallYellow/master/images/robot-01.jpg)
+
+Close-up:
+
+![](https://raw.githubusercontent.com/bradygaster/SmallYellow/master/images/robot-02.jpg)
+
 **Very important**: As you're connecting wires and inserting batteries, make sure your robot isn't sitting on top of your kitchen counter, on the plank of your pirate ship over the water, or on the ledge of a building. When the power hits the motors, the robot will roll, and very possibly roll very quickly. Then bad (or funny to the insensitive folks around you at the time) things will happen. 
 
 1. Attach your breadboard, Netduino 2, and battery pack for the chassis to the chassis. I used double-sided tape, but you could use flex-ties through the chassis holes or screws. **Note**: make sure the breadboard is on the *front* of the robot chassis, and don't freak out if you end up having to reverse it later (you've got a 50/50 shot of getting it right the first time).
